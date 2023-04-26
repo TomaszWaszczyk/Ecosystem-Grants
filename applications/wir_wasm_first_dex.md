@@ -1,12 +1,7 @@
 # Wir - Wasm First Decentralized Exchange
 
-> This document will be part of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines (except for the title)! Lines starting with a `>` (such as this one) should be removed. Please use markdown instead of HTML (e.g. `![](image.png)` instead of `<img>`). 
->
-> See the [Grant Program Process](https://github.com/smart-contract-bounty/Wasm-Bounty-01#pencil-process) on how to submit a proposal.
-- **Team Name:** Legal name of your team (e.g. Duo)
-- **Payment Address:** Polkadot payment address.
-
-> :exclamation: *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
+- **Team Name:** Tomasz Waszczyk
+- **Payment Address:** 12dRemSceLZzeK52c9zQiLXGfCjhZXgyrMKtes5uAdMQEqGs
 
 ## Project Overview :page_facing_up:
 ### Overview
@@ -45,33 +40,34 @@ Things that shouldn’t be part of the application:
 
 ### Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** Contact email (e.g. john@duo.com)
-- **Website:** Your website
+- **Contact Name:** Tomasz Waszczyk
+- **Contact Email:** tomasz@waszczyk.com
+- **Website:** https://waszczyk.com
 
 ### Legal Structure
 
-- **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. (e.g. High Street 1, London LK1 234, UK)
-- **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Duo Ltd.)
+- **Registered Address:** n/a
+- **Registered Legal Entity:** n/a
 
 ### Team's experience
 
 Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past.
 
+https://github.com/paritytech/ink/commit/a56e06e5da17a483102115839308730c1d09851d
+https://github.com/paritytech/parity-bridges-common/commit/3fb97fa5ef52db3212b45021865ee89e28d42bfb
+https://learn.figment.io/tutorials/perform-forkless-upgrade-of-a-substrate-pallet
+
 ### Team Code Repos
 
-- https://github.com/<your_organisation>/<project_1>
-- https://github.com/<your_organisation>/<project_2>
+- https://github.com/TomaszWaszczyk/ink-automated-market-maker
 
 Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
-- https://github.com/<team_member_1>
-- https://github.com/<team_member_2>
+- https://github.com/TomaszWaszczyk
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+- https://linkedin.com/in/tomaszwaszczyk
 
 
 ## Development Status :open_book:
