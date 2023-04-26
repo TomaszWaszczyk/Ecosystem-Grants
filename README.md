@@ -6,6 +6,9 @@
   - [Guidelines](#guidelines)
   - [Project Ideas](#project-ideas)
   - [Bounty Levels](#bounty-levels)
+    - [:hatching\_chick: Level 1](#hatching_chick-level-1)
+    - [:baby\_chick: Level 2](#baby_chick-level-2)
+    - [:rooster: Level 3](#rooster-level-3)
   - [Support](#support)
   - [Team](#team)
 - [:pencil: Process](#pencil-process)
@@ -13,10 +16,8 @@
   - [2. Application Review](#2-application-review)
   - [3. Milestone Delivery and Payment](#3-milestone-delivery-and-payment)
   - [Changes to a Grant after Approval](#changes-to-a-grant-after-approval)
-- [:mailbox\_with\_mail: Suggest a Project](#mailbox_with_mail-suggest-a-project)
 - [:bulb: Help](#bulb-help)
   - [Real-time conversation](#real-time-conversation)
-- [FAQ](https://github.com/use-inkubator/Ecosystem-Grants/blob/master/FAQ.md)
 
 <img src="./assets/inkubator-tanks.svg" style="width: 100%;">
 
@@ -155,7 +156,7 @@ The curators consists of individuals, and are responsible for evaluating bounty 
    2. In the newly created fork, create a copy of the application template ([`applications/application-template.md`](https://github.com/smart-contract-bounty/Ecosystem-Grants/blob/master/applications/application-template.md)).
    3. Name the new file after your project: `project_name.md`.
    4. Fill out the template with the details of your project. The more information you provide, the faster the review. Make sure your deliverables present a similar level of detail.
-   5. Once you're done, create a pull request in **this repozitory**. The pull request should only contain _one new file_ — the Markdown file you created from the template.
+   5. Once you're done, create a pull request in **this repository**. The pull request should only contain _one new file_ — the Markdown file you created from the template.
 
 ### 2. Application Review
 
