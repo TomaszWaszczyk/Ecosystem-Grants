@@ -16,7 +16,7 @@ Please provide the following:
 - If the name of your project is not descriptive, a tag line (one sentence summary).
 - A brief description of the template building.
 - An indication of how your project relates to ink! ecosystem.
-- Choosen project idea category or your alternative category with explanation of its importance
+- Chosen project idea category or your alternative category with explanation of its importance
 - An indication of why your team is interested in creating this project.
 
 ### Project Details
